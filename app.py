@@ -4,12 +4,6 @@ Streamlit UI for the Movie Consumption Prediction Challenge inference solution.
 Run locally:
     pip install -e ".[ui]"
     streamlit run app.py
-
-Deploy for free on Streamlit Community Cloud:
-    1. Push this repo to GitHub.
-    2. Go to https://share.streamlit.io, sign in, "New app".
-    3. Point it at this repo, branch, and app.py.
-    4. Streamlit Cloud installs from pyproject.toml automatically.
 """
 
 from __future__ import annotations
