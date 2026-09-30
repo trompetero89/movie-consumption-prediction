@@ -1,0 +1,322 @@
+TITLE_ID,country,platform,predicted_june_streams
+tt10855768,Argentina,Netflix,13.32
+tt10855768,Brazil,Netflix,51.82
+tt10855768,Colombia,Netflix,19.18
+tt10855768,Mexico,Netflix,44.53
+tt11210390,Argentina,Netflix,15.99
+tt11210390,Brazil,Netflix,22.3
+tt11210390,Colombia,Netflix,8.54
+tt11210390,Mexico,Netflix,28.15
+tt11214558,Brazil,Amazon,36.81
+tt11214558,Colombia,Amazon,21.64
+tt11214558,Mexico,Amazon,29.64
+tt11274492,Argentina,Netflix,16.19
+tt11274492,Brazil,Netflix,33.4
+tt11274492,Colombia,Netflix,11.68
+tt11274492,Mexico,Netflix,26.32
+tt11426232,Brazil,Amazon,49.82
+tt12042730,Brazil,Amazon,32.75
+tt12042730,Mexico,Amazon,25.23
+tt12747748,Brazil,Netflix,81.99
+tt12747748,Colombia,Netflix,28.0
+tt12747748,Mexico,Netflix,24.77
+tt12823454,Argentina,Netflix,35.19
+tt12823454,Brazil,Netflix,41.86
+tt12823454,Colombia,Netflix,36.81
+tt12823454,Mexico,Netflix,23.1
+tt12908150,Argentina,Amazon,76.63
+tt12908150,Brazil,Amazon,276.79
+tt12908150,Colombia,Amazon,88.37
+tt12908150,Mexico,Amazon,260.42
+tt12921446,Argentina,Netflix,26.77
+tt12921446,Colombia,Netflix,32.12
+tt12921446,Mexico,Netflix,21.39
+tt13097932,Argentina,Amazon,14.16
+tt13097932,Colombia,Amazon,9.84
+tt13186604,Argentina,Netflix,18.16
+tt13186604,Brazil,Netflix,30.86
+tt13186604,Colombia,Netflix,20.77
+tt13186604,Mexico,Netflix,32.89
+tt13238346,Argentina,Netflix,13.4
+tt13238346,Brazil,Netflix,55.05
+tt13238346,Colombia,Netflix,13.52
+tt13603966,Argentina,Netflix,27.24
+tt13603966,Brazil,Netflix,32.32
+tt13603966,Colombia,Netflix,27.09
+tt13603966,Mexico,Netflix,56.93
+tt13929998,Argentina,Amazon,10.77
+tt13929998,Colombia,Amazon,25.0
+tt13929998,Mexico,Amazon,12.4
+tt14230458,Brazil,Amazon,34.83
+tt14230458,Brazil,Disney+,34.24
+tt14230458,Colombia,Disney+,17.39
+tt14539318,Colombia,HBO Max,11.65
+tt14539318,Mexico,HBO Max,15.61
+tt14873054,Argentina,Amazon,19.63
+tt14873054,Colombia,Amazon,10.53
+tt14873054,Mexico,Amazon,27.54
+tt14914430,Colombia,Netflix,6.44
+tt14914430,Mexico,Netflix,20.29
+tt15257160,Argentina,Netflix,24.7
+tt15257160,Brazil,Netflix,19.71
+tt15257160,Colombia,Netflix,22.95
+tt15257160,Mexico,Netflix,29.15
+tt15685360,Argentina,HBO Max,12.48
+tt15685360,Brazil,HBO Max,24.63
+tt17067574,Argentina,Netflix,13.98
+tt17067574,Brazil,Netflix,23.54
+tt17067574,Colombia,Netflix,9.92
+tt18260564,Argentina,Netflix,13.55
+tt18260564,Brazil,Netflix,23.69
+tt18260564,Colombia,Netflix,9.41
+tt18260564,Mexico,Netflix,18.7
+tt18274520,Colombia,Amazon,23.07
+tt18392014,Argentina,Amazon,29.91
+tt18392014,Brazil,Amazon,140.53
+tt18392014,Colombia,Amazon,44.13
+tt18392014,Mexico,Amazon,81.72
+tt18394190,Argentina,Netflix,19.02
+tt18394190,Brazil,Netflix,21.69
+tt18394190,Colombia,Netflix,10.86
+tt18394190,Mexico,Netflix,22.94
+tt19121700,Argentina,Netflix,16.1
+tt19121700,Brazil,Netflix,18.16
+tt19121700,Colombia,Netflix,11.2
+tt19121700,Mexico,Netflix,12.65
+tt20048582,Argentina,Amazon,21.83
+tt20048582,Brazil,Amazon,29.66
+tt20048582,Colombia,Amazon,18.65
+tt20048582,Mexico,Amazon,29.76
+tt20672534,Argentina,Netflix,15.62
+tt20672534,Brazil,Netflix,39.05
+tt20672534,Colombia,Netflix,8.57
+tt20672534,Mexico,Netflix,27.24
+tt21051906,Argentina,Netflix,27.04
+tt21051906,Brazil,Netflix,27.01
+tt21051906,Colombia,Netflix,17.63
+tt21051906,Mexico,Netflix,36.36
+tt21187592,Argentina,Amazon,31.34
+tt21187592,Brazil,Amazon,45.28
+tt21187592,Colombia,Amazon,21.96
+tt21187592,Mexico,Amazon,30.59
+tt21245882,Brazil,Netflix,48.18
+tt21245882,Colombia,Netflix,15.39
+tt21245882,Mexico,Netflix,24.3
+tt21905744,Colombia,HBO Max,7.36
+tt21909764,Argentina,Amazon,30.53
+tt21909764,Brazil,Amazon,115.19
+tt21909764,Colombia,Amazon,90.74
+tt21909764,Mexico,Amazon,105.54
+tt21940010,Colombia,Amazon,22.19
+tt21940010,Mexico,Amazon,24.35
+tt21957774,Brazil,Netflix,23.36
+tt21957774,Colombia,Netflix,8.14
+tt21957774,Mexico,Netflix,27.23
+tt22740896,Argentina,Netflix,66.9
+tt22740896,Brazil,Netflix,154.07
+tt22740896,Colombia,Netflix,43.59
+tt22740896,Mexico,Netflix,144.88
+tt22898462,Argentina,HBO Max,18.16
+tt22898462,Brazil,HBO Max,29.95
+tt22898462,Colombia,HBO Max,22.58
+tt22898462,Mexico,HBO Max,31.21
+tt23476986,Argentina,Amazon,24.12
+tt23476986,Brazil,Amazon,49.69
+tt23476986,Colombia,Amazon,9.95
+tt24079806,Brazil,Netflix,29.42
+tt24079806,Colombia,Netflix,12.05
+tt24458622,Argentina,Netflix,25.06
+tt24458622,Brazil,Netflix,31.77
+tt24458622,Colombia,Netflix,33.05
+tt24458622,Mexico,Netflix,11.8
+tt2560078,Argentina,Disney+,13.43
+tt2560078,Colombia,Disney+,7.33
+tt26350277,Argentina,Netflix,18.37
+tt26350277,Brazil,Netflix,47.09
+tt26350277,Colombia,Netflix,8.37
+tt26350277,Mexico,Netflix,25.55
+tt26581740,Argentina,HBO Max,24.06
+tt26581740,Brazil,HBO Max,93.6
+tt26581740,Colombia,Amazon,23.33
+tt26581740,Colombia,HBO Max,24.85
+tt26581740,Mexico,Amazon,29.16
+tt26581740,Mexico,HBO Max,171.5
+tt26595906,Argentina,Netflix,25.0
+tt26595906,Brazil,Netflix,104.46
+tt26595906,Colombia,Netflix,36.31
+tt26595906,Mexico,Netflix,117.2
+tt26596953,Argentina,Netflix,23.24
+tt26596953,Brazil,Netflix,75.04
+tt26596953,Colombia,Netflix,17.13
+tt26596953,Mexico,Netflix,26.32
+tt27534307,Argentina,HBO Max,13.87
+tt27534307,Colombia,HBO Max,4.62
+tt27534307,Mexico,Amazon,27.6
+tt27534307,Mexico,HBO Max,30.59
+tt27604215,Argentina,Netflix,61.8
+tt27604215,Brazil,Netflix,195.52
+tt27604215,Colombia,Netflix,50.93
+tt27604215,Mexico,Netflix,61.37
+tt27714278,Argentina,Amazon,15.33
+tt27714278,Brazil,Amazon,44.78
+tt27714278,Colombia,Amazon,11.36
+tt27714278,Mexico,Amazon,31.73
+tt28066777,Argentina,Netflix,20.12
+tt28066777,Brazil,Netflix,78.78
+tt28066777,Colombia,Netflix,12.3
+tt28066777,Mexico,Netflix,32.55
+tt28443655,Brazil,Amazon,26.01
+tt28443655,Colombia,HBO Max,22.44
+tt28607951,Argentina,HBO Max,13.69
+tt28607951,Brazil,Amazon,32.28
+tt28607951,Colombia,HBO Max,6.6
+tt28607951,Mexico,HBO Max,16.3
+tt28657882,Brazil,Netflix,22.32
+tt28657882,Colombia,Netflix,10.74
+tt28657882,Mexico,Netflix,30.6
+tt28996126,Brazil,Amazon,63.76
+tt29232158,Argentina,Netflix,18.09
+tt29232158,Brazil,Netflix,33.24
+tt29232158,Colombia,Netflix,11.75
+tt29232158,Mexico,Netflix,46.33
+tt29623480,Argentina,HBO Max,16.18
+tt29623480,Colombia,HBO Max,24.82
+tt29623480,Mexico,HBO Max,144.11
+tt29768334,Argentina,Netflix,16.86
+tt29768334,Brazil,Netflix,68.47
+tt29768334,Colombia,Netflix,7.56
+tt29768334,Mexico,Netflix,23.66
+tt30788842,Colombia,Amazon,11.57
+tt30788842,Colombia,HBO Max,10.47
+tt30788842,Mexico,HBO Max,87.49
+tt30840798,Argentina,HBO Max,13.97
+tt30840798,Brazil,Amazon,29.14
+tt30840798,Colombia,Amazon,9.76
+tt30840798,Colombia,HBO Max,7.9
+tt31116965,Argentina,Netflix,142.15
+tt31116965,Brazil,Netflix,181.57
+tt31116965,Colombia,Netflix,152.9
+tt31116965,Mexico,Netflix,241.59
+tt31121295,Argentina,Amazon,17.9
+tt31121295,Colombia,Amazon,13.53
+tt31434639,Argentina,Amazon,16.4
+tt31434639,Brazil,Amazon,40.24
+tt31434639,Colombia,Amazon,17.82
+tt31434639,Mexico,Amazon,53.16
+tt31487553,Mexico,Netflix,31.73
+tt31923069,Brazil,Disney+,89.72
+tt31923069,Colombia,Disney+,25.39
+tt31923069,Mexico,Disney+,30.11
+tt32138523,Colombia,Netflix,9.14
+tt32221196,Brazil,HBO Max,21.62
+tt32221196,Colombia,HBO Max,5.24
+tt32221196,Mexico,HBO Max,29.03
+tt32237537,Argentina,Netflix,11.87
+tt32237537,Colombia,Netflix,20.17
+tt32237537,Mexico,Netflix,23.93
+tt32244931,Argentina,Netflix,10.16
+tt32244931,Colombia,Netflix,6.82
+tt32244931,Mexico,Netflix,14.93
+tt32276312,Brazil,Netflix,42.99
+tt32430579,Argentina,Amazon,110.34
+tt32430579,Brazil,Amazon,767.66
+tt32430579,Colombia,Amazon,138.83
+tt32430579,Mexico,Amazon,187.26
+tt32606470,Argentina,Netflix,31.79
+tt32606470,Brazil,Netflix,75.48
+tt32606470,Colombia,Netflix,45.04
+tt32606470,Mexico,Netflix,68.79
+tt32743167,Mexico,Disney+,19.13
+tt32897959,Argentina,HBO Max,217.9
+tt32897959,Brazil,Amazon,30.66
+tt32897959,Brazil,HBO Max,811.77
+tt32897959,Colombia,Amazon,30.48
+tt32897959,Colombia,HBO Max,243.83
+tt32897959,Mexico,HBO Max,723.05
+tt33014583,Brazil,Netflix,36.18
+tt33014583,Colombia,Netflix,8.66
+tt33014583,Mexico,Netflix,22.37
+tt33549683,Argentina,Netflix,23.22
+tt33549683,Brazil,Netflix,65.8
+tt33549683,Colombia,Netflix,30.95
+tt33549683,Mexico,Netflix,76.03
+tt34433451,Brazil,Netflix,26.16
+tt34433451,Mexico,Netflix,21.61
+tt34682220,Argentina,Netflix,69.99
+tt34682220,Brazil,Netflix,37.58
+tt34896285,Argentina,Netflix,14.35
+tt34896285,Colombia,Netflix,8.73
+tt34906817,Argentina,Amazon,66.19
+tt34906817,Brazil,Amazon,189.2
+tt34906817,Colombia,Amazon,81.62
+tt34906817,Mexico,Amazon,119.91
+tt35301431,Argentina,Netflix,21.54
+tt35301431,Brazil,Netflix,38.41
+tt35301431,Mexico,Netflix,16.66
+tt35628886,Brazil,Netflix,31.99
+tt35628886,Mexico,Netflix,16.46
+tt35630700,Brazil,Netflix,28.59
+tt35630700,Colombia,Netflix,9.37
+tt35630700,Mexico,Netflix,20.33
+tt36331860,Argentina,Amazon,23.18
+tt36331860,Brazil,Amazon,138.28
+tt36331860,Colombia,Amazon,39.25
+tt36331860,Mexico,Amazon,98.19
+tt36351149,Mexico,Netflix,17.0
+tt38095263,Argentina,Netflix,26.83
+tt38095263,Brazil,Netflix,34.02
+tt38095263,Colombia,Netflix,8.16
+tt38095263,Mexico,Netflix,28.73
+tt38589464,Argentina,Netflix,32.11
+tt38589464,Brazil,Netflix,101.22
+tt38589464,Colombia,Netflix,35.41
+tt38589464,Mexico,Netflix,39.68
+tt38872297,Argentina,Netflix,19.28
+tt38872297,Brazil,Netflix,35.94
+tt38872297,Colombia,Netflix,7.85
+tt38872297,Mexico,Netflix,32.3
+tt39049795,Argentina,Netflix,19.81
+tt39049795,Brazil,Netflix,65.31
+tt39049795,Colombia,Netflix,25.36
+tt39049795,Mexico,Netflix,17.13
+tt39139925,Argentina,Netflix,20.03
+tt39139925,Brazil,Netflix,38.2
+tt39139925,Colombia,Netflix,10.24
+tt39139925,Mexico,Netflix,37.44
+tt39162904,Argentina,Netflix,16.39
+tt39162904,Brazil,Netflix,31.67
+tt39162904,Mexico,Netflix,25.38
+tt40792117,Argentina,Netflix,198.21
+tt40792117,Brazil,Netflix,229.45
+tt40792117,Colombia,Netflix,174.33
+tt40792117,Mexico,Netflix,866.52
+tt4196566,Argentina,Netflix,27.05
+tt4196566,Brazil,Netflix,29.3
+tt4196566,Colombia,Netflix,6.82
+tt4196566,Mexico,Netflix,28.61
+tt4978342,Argentina,Netflix,34.4
+tt4978342,Brazil,Netflix,85.09
+tt4978342,Colombia,Netflix,43.64
+tt4978342,Mexico,Netflix,44.99
+tt4996328,Argentina,Amazon,24.17
+tt4996328,Brazil,Amazon,35.25
+tt4996328,Colombia,Amazon,6.61
+tt4996328,Mexico,Amazon,31.65
+tt5198890,Argentina,Netflix,37.76
+tt5198890,Colombia,HBO Max,5.95
+tt5198890,Colombia,Netflix,8.26
+tt5198890,Mexico,Netflix,17.33
+tt6436620,Colombia,Disney+,12.58
+tt7038762,Brazil,Netflix,30.86
+tt9044418,Argentina,Amazon,13.9
+tt9044418,Brazil,Amazon,44.38
+tt9603208,Argentina,Netflix,74.67
+tt9603208,Brazil,Netflix,229.21
+tt9603208,Colombia,Netflix,83.61
+tt9603208,Mexico,Netflix,86.23
+tt9619824,Argentina,HBO Max,29.7
+tt9619824,Brazil,Amazon,30.52
+tt9619824,Brazil,HBO Max,31.19
+tt9619824,Colombia,HBO Max,22.46
+tt9619824,Mexico,Amazon,28.39
+tt9619824,Mexico,HBO Max,138.86
